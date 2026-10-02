@@ -1,0 +1,102 @@
+{
+  "slug": "butterclear",
+  "box": 114,
+  "date": "2026-10-04",
+  "title": "ButterClear",
+  "question": "How is makhan made?",
+  "hook": "Makhan is not squeezed out of milk. It is milk fat turned inside out. Billions of tiny fat globules float in water, each in its own skin, until the mathani tears the skins and the fat sticks together. Churn a pot, watch the globules, and see why ice goes in on a hot day.",
+  "thumbText": "HOW MAKHAN IS MADE",
+  "field": "chemistry",
+  "minutes": 15,
+  "tags": [
+    "butter",
+    "makhan",
+    "churning",
+    "emulsion",
+    "milk fat",
+    "bilona",
+    "cream",
+    "chaas",
+    "food science",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Milk hides its fat",
+      "text": "Milk is about 87% water. Its fat floats in it as billions of tiny globules, 3 to 4 thousandths of a millimetre across, each wrapped in a thin membrane that stops them merging. Buffalo milk has nearly twice the fat of cow milk."
+    },
+    {
+      "title": "Cream rises by Stokes' law",
+      "text": "Fat is lighter than the watery milk, so globules float up at about a millimetre an hour, and bigger ones rise much faster. A spinning cream separator, patented by Gustaf de Laval in 1878, replaces gravity with thousands of g and does the job in seconds."
+    },
+    {
+      "title": "The churn goes back and forth",
+      "text": "A mathani is a rod spun by a rope: pull one end and it turns one way, pull the other and it turns back. Each reversal throws the wings against liquid still moving the other way, which beats air in and knocks globules together."
+    },
+    {
+      "title": "The break is an emulsion flipping",
+      "text": "Globules crowd onto air bubbles, their skins tear, and liquid fat glues them into clumps. Suddenly fat-in-water becomes water-in-fat: butter grains in thin buttermilk. It works best at about 10 to 15 °C, which is why cold water or ice goes into the pot in summer."
+    },
+    {
+      "title": "Wash, work, salt",
+      "text": "Washing removes buttermilk, and working presses the leftover water into droplets too small to see. White makhan from dahi is soft, tangy and unsalted. Table butter is salted, often coloured, and by FSSAI rules at least 80% milk fat with at most 16% moisture. The liquid left over is chaas."
+    },
+    {
+      "title": "Hard cold, soft warm",
+      "text": "Milk fat is hundreds of fats with different melting points, so butter has a melting range. At fridge temperature about half the fat is crystal and the block is hard. Near 20 °C about a fifth is, and it spreads. By body temperature it has all melted."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Emulsion",
+      "def": "Tiny droplets of one liquid spread through another it does not mix with. Milk is fat in water, and butter is water in fat."
+    },
+    {
+      "term": "Fat globule membrane",
+      "def": "The skin of phospholipids and proteins, 10 to 20 nanometres thick, around every fat globule in milk."
+    },
+    {
+      "term": "Stokes' law",
+      "def": "The speed of a small ball through a liquid: v = d² Δρ g ÷ 18 η. Twice the diameter means four times the speed."
+    },
+    {
+      "term": "Mathani (bilona)",
+      "def": "The Indian wooden churning rod, spun back and forth by a rope wound round it."
+    },
+    {
+      "term": "Partial coalescence",
+      "def": "Fat globules sticking together without fully merging: liquid fat is the glue and fat crystals keep the shape."
+    },
+    {
+      "term": "Phase inversion",
+      "def": "An emulsion turning inside out, as when cream (fat in water) becomes butter (water in fat)."
+    },
+    {
+      "term": "Chaas (buttermilk)",
+      "def": "The thin liquid left after churning: water, protein, lactose and a little fat."
+    },
+    {
+      "term": "Melting range",
+      "def": "The span of temperatures over which a mixture of fats goes from solid to liquid. For milk fat it is roughly −40 °C to +40 °C."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "butterclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

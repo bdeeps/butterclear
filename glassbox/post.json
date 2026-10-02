@@ -1,0 +1,126 @@
+{
+  "slug": "butterclear",
+  "box": 114,
+  "question": "How is makhan made?",
+  "url": "https://glassbox.how/e/butterclear/",
+  "app": "https://glassbox.how/butterclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From fat left in a clay pot nine thousand years ago to the white makhan in an Indian kitchen and the yellow block on the breakfast table.\n\n4200 BCE: A clay churn you rock like a cradle\n2500 BCE: Dairy fat in Indus valley pots\n900: Krishna, the makhan chor\n1674: Globules in milk\n1878: Cream in seconds: the centrifugal separator\n1941: Butter without stopping: the Fritz process\n\nThe full story, with 27 moments, sources and charts: glassbox.how/e/butterclear/history (link in bio)\n\nThen play with how it works: glassbox.how/butterclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #butter #makhan #churning #emulsion #milkfat #bilona #history",
+      "youtube": {
+        "title": "The history of makhan in 45 seconds #shorts",
+        "description": "From fat left in a clay pot nine thousand years ago to the white makhan in an Indian kitchen and the yellow block on the breakfast table.\n\n4200 BCE · A clay churn you rock like a cradle (Potters of the Ghassulian and Beersheba cultures)\n2500 BCE · Dairy fat in Indus valley pots (People of the Indus civilisation; studied by Kalyan Sekhar Chakraborty and colleagues)\n900 · Krishna, the makhan chor (The tradition of the Bhagavata Purana)\n1674 · Globules in milk (Antonie van Leeuwenhoek)\n1878 · Cream in seconds: the centrifugal separator (Gustaf de Laval)\n1941 · Butter without stopping: the Fritz process (Dr Fritz (Willi Fritz in his patents, often written Wilhelm Fritz))\n\n▶ Full history: https://glassbox.how/e/butterclear/history/\n▶ Play with it: https://glassbox.how/e/butterclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How is makhan made?\n\nMakhan is not squeezed out of milk. It is milk fat turned inside out. Billions of tiny fat globules float in water, each in its own skin, until the mathani tears the skins and the fat sticks together. Churn a pot, watch the globules, and see why ice goes in on a hot day.\n\n→ Milk hides its fat as billions of tiny globules, each wrapped in its own skin.\n→ Left alone, the fat floats up by about a millimetre an hour. That layer on top is cream.\n→ In 1878 Gustaf de Laval patented the spinning separator: thousands of g, and cream in seconds.\n→ The mathani: a rope wound on a rod. Pull right and it spins one way, pull left and it spins back.\n→ Churning whips in air. Fat globules crowd onto the bubbles, their skins tear, and liquid fat glues them into clumps.\n\nPlay with it yourself. It's free and open source: glassbox.how/butterclear (link in bio)\n\nBox No. 114 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #butter #makhan #churning #emulsion #milkfat #bilona #cream #chaas #foodscience",
+    "carousel": "Swipe through: How is makhan made?\n\nMakhan is not squeezed out of milk. It is milk fat turned inside out. Billions of tiny fat globules float in water, each in its own skin, until the mathani tears the skins and the fat sticks together. Churn a pot, watch the globules, and see why ice goes in on a hot day.\n\nSave this for later, then play with the interactive version at glassbox.how/butterclear (link in bio).\n\nBox No. 114 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #butter #makhan #churning #emulsion #milkfat #bilona",
+    "youtube": {
+      "title": "How is makhan made? #shorts",
+      "description": "Makhan is not squeezed out of milk. It is milk fat turned inside out. Billions of tiny fat globules float in water, each in its own skin, until the mathani tears the skins and the fat sticks together. Churn a pot, watch the globules, and see why ice goes in on a hot day.\n\n▶ Play with it: https://glassbox.how/e/butterclear/\n⌘ Source code (MIT): https://github.com/bdeeps/butterclear\n\nBox No. 114 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How is makhan made? (interactive explainer)",
+      "description": "Makhan is not squeezed out of milk. It is milk fat turned inside out. Billions of tiny fat globules float in water, each in its own skin, until the mathani tears the skins and the fat sticks together. Churn a pot, watch the globules, and see why ice goes in on a hot day.\n\n▶ Play with the interactive version: https://glassbox.how/e/butterclear/\n⌘ Source code (MIT): https://github.com/bdeeps/butterclear\n\nIn this video:\n• Milk hides its fat. Milk is about 87% water.\n• Cream rises by Stokes' law. Fat is lighter than the watery milk, so globules float up at about a millimetre an hour, and bigger ones rise much faster.\n• The churn goes back and forth. A mathani is a rod spun by a rope: pull one end and it turns one way, pull the other and it turns back.\n• The break is an emulsion flipping. Globules crowd onto air bubbles, their skins tear, and liquid fat glues them into clumps.\n• Wash, work, salt. Washing removes buttermilk, and working presses the leftover water into droplets too small to see.\n• Hard cold, soft warm. Milk fat is hundreds of fats with different melting points, so butter has a melting range.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How is makhan made?\n\nMakhan is not squeezed out of milk.\n\nPlay with it: https://glassbox.how/e/butterclear/",
+    "linkedin": "How is makhan made?\n\nMakhan is not squeezed out of milk. It is milk fat turned inside out. Billions of tiny fat globules float in water, each in its own skin, until the mathani tears the skins and the fat sticks together. Churn a pot, watch the globules, and see why ice goes in on a hot day.\n\n1. Milk hides its fat\n2. Cream rises by Stokes' law\n3. The churn goes back and forth\n4. The break is an emulsion flipping\n5. Wash, work, salt\n6. Hard cold, soft warm\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 114 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/butterclear/\nCode: https://github.com/bdeeps/butterclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-02T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-02T06:40:03.338Z"
+}

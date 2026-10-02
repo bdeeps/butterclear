@@ -1,0 +1,991 @@
+{
+  "title": "The history of makhan",
+  "tagline": "From fat left in a clay pot nine thousand years ago to the white makhan in an Indian kitchen and the yellow block on the breakfast table.",
+  "intro": "People were churning butter long before anyone knew what milk was made of. The churn came first, then the stories, then the trade. Only much later did a microscope show the tiny balls of fat, a spinning bowl pull the cream out in seconds, and a village co-operative in Gujarat turn makhan into a national brand.",
+  "eras": [
+    {
+      "id": "herd",
+      "name": "First fat, first churns",
+      "from": -7000,
+      "to": -1000,
+      "color": "#5ce1a9",
+      "summary": "Herders learn to milk their animals and keep the fat. Clay churns appear in the Levant, dairy fat soaks into Indus valley pots, and butter is buried in Irish bogs."
+    },
+    {
+      "id": "story",
+      "name": "Butter in story and trade",
+      "from": -1500,
+      "to": 1650,
+      "color": "#ffb547",
+      "summary": "Ghee is sung about in the Rigveda, the churn becomes the picture behind a great story, a child god steals makhan, and butter becomes something countries sell."
+    },
+    {
+      "id": "science",
+      "name": "Seeing inside milk",
+      "from": 1650,
+      "to": 1875,
+      "color": "#c49bff",
+      "summary": "A microscope shows the globules of fat in milk, a law explains how slowly they rise, a city grades every cask of butter, and a chemist invents a rival."
+    },
+    {
+      "id": "machine",
+      "name": "The creamery age",
+      "from": 1875,
+      "to": 1945,
+      "color": "#ff7a59",
+      "summary": "The centrifuge skims milk in seconds, farmers pool their milk in co-operative creameries, fat is measured in a bottle, and butter starts to flow from a machine without stopping."
+    },
+    {
+      "id": "white",
+      "name": "India's white revolution",
+      "from": 1945,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Milk farmers in Kaira district start their own union, Amul butter gets its famous girl, Operation Flood links villages to cities, and India becomes the world's largest milk producer."
+    }
+  ],
+  "events": [
+    {
+      "year": -6500,
+      "date": "7th millennium BCE",
+      "era": "herd",
+      "art": "vessels",
+      "key": false,
+      "title": "Milk fat in the oldest pots",
+      "who": "Early farmers and herders",
+      "where": "North-western Anatolia and the Near East",
+      "country": "Turkey",
+      "text": "Chemists led by Richard Evershed tested more than 2,200 ancient pottery vessels from the Near East and south-eastern Europe. Many still held traces of milk fat. The oldest came from the seventh millennium BCE, and milking mattered most in north-western Anatolia, where cattle did well.",
+      "why": "It is the earliest direct evidence that people were not only milking animals but processing and storing what the milk gave them.",
+      "box": "milk",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": -4200,
+      "date": "c. 4500 to 3500 BCE",
+      "era": "herd",
+      "art": "cradle",
+      "key": true,
+      "title": "A clay churn you rock like a cradle",
+      "who": "Potters of the Ghassulian and Beersheba cultures",
+      "where": "Bir Abu Matar, near Beersheba, southern Levant",
+      "country": "Israel",
+      "text": "Villagers of the Copper Age made pottery vessels shaped like a waterskin lying on its side, with a handle at each end. Archaeologists read them as butter churns. The Israel Museum's label says a rope was tied to the handles and the churn was rocked back and forth.",
+      "why": "They are among the oldest known tools made just for churning, and they show that butter needs only one thing: milk fat shaken for long enough.",
+      "box": "churn",
+      "sources": [
+        2,
+        3,
+        53
+      ]
+    },
+    {
+      "year": -2550,
+      "date": "c. 2600 to 2500 BCE",
+      "era": "herd",
+      "art": "storyboard",
+      "key": false,
+      "title": "A dairy carved on a temple wall",
+      "who": "Sumerian craftsmen under A'annepada, king of Ur",
+      "where": "Temple of Ninhursag, Tell al-'Ubaid, Sumer",
+      "country": "Iraq",
+      "text": "A frieze on the temple front shows men milking cows, with calves standing by. Other figures work with large jars, which the excavators read as churning, straining and storing. The pieces are now in the Iraq Museum and the British Museum.",
+      "why": "It is one of the oldest pictures of a working dairy anywhere, made about 4,500 years ago.",
+      "box": "",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": -2500,
+      "date": "c. 2500 BCE",
+      "era": "herd",
+      "art": "vessels",
+      "key": true,
+      "title": "Dairy fat in Indus valley pots",
+      "who": "People of the Indus civilisation; studied by Kalyan Sekhar Chakraborty and colleagues",
+      "where": "Kotada Bhadli, Kutch, Gujarat",
+      "country": "India",
+      "text": "Researchers tested 59 pieces of pottery from Kotada Bhadli, a small Indus settlement in Gujarat. Twenty-two of them held dairy fats. The chemistry pointed to milk from cattle and water buffalo that had been fed on millets. The study was published in Scientific Reports in 2020.",
+      "why": "It is the earliest direct evidence of dairy processing in South Asia, in the same state where Amul would be born 4,500 years later.",
+      "box": "milk",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": -1700,
+      "date": "c. 1700 BCE to the 1600s CE",
+      "era": "herd",
+      "art": "block",
+      "key": false,
+      "title": "Butter buried in the bog",
+      "who": "Farming communities of Ireland and Scotland",
+      "where": "Peat bogs of Ireland",
+      "country": "Ireland",
+      "text": "For thousands of years people in Ireland buried lumps of butter in cold, wet peat bogs, often in wooden tubs. A 2019 study led by Jessica Smyth dated bog butters from the National Museum of Ireland and proved they were dairy fat. The oldest was from about 1700 BCE.",
+      "why": "The habit lasted at least 3,500 years, and it shows how hard people worked to keep butter from spoiling before fridges.",
+      "box": "",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": -1200,
+      "date": "c. 1500 to 1000 BCE (dates debated)",
+      "era": "story",
+      "art": "flame",
+      "key": false,
+      "title": "A hymn to ghee",
+      "who": "Vedic poets; hymn 4.58 is attributed to the rishi Vamadeva Gautama",
+      "where": "North-western Indian subcontinent",
+      "country": "India",
+      "text": "The Rigveda, one of the oldest texts of India, praises ghrita, or ghee, again and again. One hymn, 4.58, is addressed to ghee itself and calls it a honeyed wave. Ghee is makhan heated gently until the water is gone, and it has been poured into ritual fires since Vedic times.",
+      "why": "It shows that churning butter and clarifying it into ghee were already everyday skills, and a part of culture, about three thousand years ago.",
+      "box": "finish",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 300,
+      "date": "Early centuries CE (the texts are hard to date)",
+      "era": "story",
+      "art": "wave",
+      "key": false,
+      "title": "The churning of the ocean",
+      "who": "Told in the Mahabharata, the Vishnu Purana and the Bhagavata Purana",
+      "where": "India",
+      "country": "India",
+      "text": "In the story of the Samudra manthan, gods and asuras churn the ocean of milk to bring up amrita, the nectar of immortality. Mount Mandara is the churning rod and the serpent Vasuki is the rope, pulled from both sides. Vishnu, as a tortoise, holds the mountain up from below.",
+      "why": "The picture is a household rope-and-rod churn, the mathani, made as big as the world: anyone who had churned dahi would have known it at once.",
+      "box": "churn",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 900,
+      "date": "c. 500 to 1000 CE (scholars differ)",
+      "era": "story",
+      "art": "person",
+      "key": true,
+      "title": "Krishna, the makhan chor",
+      "who": "The tradition of the Bhagavata Purana",
+      "where": "Gokul and Vrindavan, in the Braj country",
+      "country": "India",
+      "text": "The tenth book of the Bhagavata Purana tells of Krishna's childhood among cowherds, where the little boy steals freshly churned makhan from the pots of his neighbours. He is lovingly called makhan chor, the butter thief. At Janmashtami, teams still build human pyramids to break a hanging pot in the dahi handi.",
+      "why": "No other food has a story like it: in India, white makhan is tied to childhood, mischief and affection.",
+      "box": "",
+      "sources": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "year": 1150,
+      "date": "By the 12th century",
+      "era": "story",
+      "art": "boat",
+      "key": false,
+      "title": "Butter becomes an export",
+      "who": "Farmers and merchants of Scandinavia",
+      "where": "Scandinavia",
+      "country": "Norway",
+      "text": "In the cool north of Europe butter kept well, and it could be packed in casks and shipped. Scandinavia has the oldest record of exporting butter in Europe, going back at least to the 12th century.",
+      "why": "Butter stopped being only something a family made for itself and became something a country could sell.",
+      "box": "",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1674,
+      "date": "7 April 1674",
+      "era": "science",
+      "art": "lens",
+      "key": true,
+      "title": "Globules in milk",
+      "who": "Antonie van Leeuwenhoek",
+      "where": "Delft, Dutch Republic",
+      "country": "Netherlands",
+      "text": "Leeuwenhoek, a cloth merchant who made his own tiny microscopes, wrote to the Royal Society in London about small globules he had seen in cow's milk and in blood. Part of the letter was printed that same month. We now know the globules are balls of fat, most of them 3 to 4 thousandths of a millimetre across.",
+      "why": "For the first time someone saw that milk is not one smooth liquid: the fat floats in it as separate droplets, which is why it can be gathered into butter.",
+      "box": "milk",
+      "sources": [
+        17,
+        18
+      ]
+    },
+    {
+      "year": 1769,
+      "date": "1769 (often given as 1770)",
+      "era": "science",
+      "art": "scales",
+      "key": false,
+      "title": "Every cask graded in Cork",
+      "who": "The Committee of Merchants",
+      "where": "Cork Butter Exchange, Cork",
+      "country": "Ireland",
+      "text": "Cork's butter merchants set up an exchange where every cask, called a firkin, was inspected and graded on a scale of one to six before it could be sold. In the 1800s Cork was the largest butter market in the world. At its peak in the 1870s about 400,000 firkins a year passed through, some bound for India and the Caribbean.",
+      "why": "It was among the first food quality systems anywhere: a buyer far away could trust butter he had never tasted.",
+      "box": "finish",
+      "sources": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1851,
+      "date": "1851",
+      "era": "science",
+      "art": "ball",
+      "key": false,
+      "title": "A law for small balls in a liquid",
+      "who": "George Gabriel Stokes",
+      "where": "Cambridge, England",
+      "country": "United Kingdom",
+      "text": "Stokes worked out how fast a small sphere moves through a thick fluid. The speed depends on the difference in density, on how runny the fluid is, and on the square of the sphere's radius. A fat globule twice as wide rises four times as fast.",
+      "why": "It explains why cream takes hours to rise in a pot: a typical 3 micrometre globule climbs only about 0.6 mm in an hour.",
+      "box": "cream",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1869,
+      "date": "15 July 1869",
+      "era": "science",
+      "art": "flask",
+      "key": false,
+      "title": "A rival is invented: margarine",
+      "who": "Hippolyte Mège-Mouriès",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "France was short of butter, and Emperor Napoleon III offered a prize for a cheaper substitute. The chemist Mège-Mouriès made one from beef fat, filed his patent in July 1869 and called it oleomargarine. In 1871 the Dutch butter merchants Jurgens took up his process. Their firm later became part of Unilever.",
+      "why": "Butter now had a competitor, and that pushed dairies to make butter cheaper, more even and easier to spread.",
+      "box": "",
+      "sources": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1878,
+      "date": "1878 (shown in Stockholm in January 1879)",
+      "era": "machine",
+      "art": "drum",
+      "key": true,
+      "title": "Cream in seconds: the centrifugal separator",
+      "who": "Gustaf de Laval",
+      "where": "Stockholm, Sweden",
+      "country": "Sweden",
+      "text": "De Laval built a bowl that spun milk at high speed. The heavier skim milk was flung outwards, the lighter cream gathered in the middle, and both flowed out through separate spouts without stopping the machine. His first model handled about 130 litres an hour. With Oscar Lamm he founded AB Separator in 1883. From 1890 a stack of cone-shaped 'Alfa' discs, a German patent by Clemens von Bechtolsheim bought in 1889, made it many times faster.",
+      "why": "Skimming no longer meant waiting a day for cream to rise, so butter could be made fresh, in a factory, from the milk of many farms.",
+      "box": "cream",
+      "sources": [
+        25,
+        26,
+        27,
+        22
+      ]
+    },
+    {
+      "year": 1882,
+      "date": "10 June 1882",
+      "era": "machine",
+      "art": "share",
+      "key": false,
+      "title": "Farmers own the creamery",
+      "who": "Dairy farmers of Hjedding",
+      "where": "Hjedding, near Ølgod, western Jutland",
+      "country": "Denmark",
+      "text": "The farmers of a small Danish village founded Denmark's first co-operative dairy. Each member sent in milk and shared the profit. The idea spread across the country, and in October 1901 Danish dairies registered a shared mark for their butter, the Lur brand, known today as Lurpak.",
+      "why": "It proved that small farmers who pool their milk can make butter as good as any big company, the same idea that Anand would use 64 years later.",
+      "box": "",
+      "sources": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "year": 1890,
+      "date": "1890",
+      "era": "machine",
+      "art": "thermometer",
+      "key": false,
+      "title": "How much fat is in this milk?",
+      "who": "Stephen Moulton Babcock; Niklaus Gerber",
+      "where": "University of Wisconsin, Madison, United States",
+      "country": "United States",
+      "text": "Babcock found a quick test for butterfat. Sulphuric acid dissolves everything in the milk except the fat, and a spin in a centrifuge drives the fat up into the neck of a marked bottle, where it can be read off. He chose not to patent it. In Switzerland, Niklaus Gerber patented a similar test in 1891, and it is still widely used.",
+      "why": "Farmers could now be paid for the fat in their milk and not just for its volume, which made watering milk down pointless.",
+      "box": "milk",
+      "sources": [
+        31,
+        32,
+        54
+      ]
+    },
+    {
+      "year": 1890,
+      "date": "c. 1890",
+      "era": "machine",
+      "art": "cell",
+      "key": false,
+      "title": "Choosing the bacteria that sour the cream",
+      "who": "Vilhelm Storch",
+      "where": "Copenhagen, Denmark",
+      "country": "Denmark",
+      "text": "Storch showed that cream sours because of bacteria, and that some kinds give butter a fine flavour while others spoil it. Danish creameries began to heat their cream first and then add a chosen, pure culture. Hermann Weigmann in Germany and Herbert Conn in the United States did similar work at about the same time.",
+      "why": "Cultured butter became reliable. It is the science behind an old Indian habit too: setting milk into dahi before churning it.",
+      "box": "",
+      "sources": [
+        33,
+        34
+      ]
+    },
+    {
+      "year": 1930,
+      "date": "1930",
+      "era": "machine",
+      "art": "building",
+      "key": false,
+      "title": "Polson builds a dairy at Anand",
+      "who": "Pestonjee Edulji and the Polson company",
+      "where": "Anand, Kaira district, Gujarat",
+      "country": "India",
+      "text": "Polson, a Bombay firm, built a dairy at Anand in 1930 and became the best-known butter in India. From 1945 it supplied pasteurised milk to the city under the Bombay Milk Scheme. Farmers in Kaira had to sell through its contractors and saw little of the price that the city paid.",
+      "why": "Polson showed that Anand's milk could feed Bombay, and the unfair terms set the stage for the farmers' revolt.",
+      "box": "",
+      "sources": [
+        40,
+        39
+      ]
+    },
+    {
+      "year": 1941,
+      "date": "1941",
+      "era": "machine",
+      "art": "motor",
+      "key": true,
+      "title": "Butter without stopping: the Fritz process",
+      "who": "Dr Fritz (Willi Fritz in his patents, often written Wilhelm Fritz)",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "Until now butter was made a batch at a time in a big turning churn. Fritz designed a machine in which cream goes in at one end and is beaten so fast that it breaks into butter grains in seconds. Screws then press out the buttermilk and work the grains into a smooth ribbon of butter. His French patent was filed in February 1941.",
+      "why": "Most factory butter in the world is still made on machines of this kind.",
+      "box": "break",
+      "sources": [
+        35,
+        36,
+        33
+      ]
+    },
+    {
+      "year": 1946,
+      "date": "14 December 1946",
+      "era": "white",
+      "art": "person",
+      "key": true,
+      "title": "The farmers of Kaira start their own union",
+      "who": "Tribhuvandas Patel, with the backing of Sardar Vallabhbhai Patel and Morarji Desai",
+      "where": "Anand, Kaira district, Gujarat",
+      "country": "India",
+      "text": "In January 1946 the milk farmers of Kaira went on strike for 15 days and refused to sell to Polson. Sardar Patel advised them to form a co-operative and sent Morarji Desai to help organise it. The Kaira District Co-operative Milk Producers' Union was registered on 14 December 1946, with Tribhuvandas Patel as its chairman.",
+      "why": "The farmers now owned the dairy that bought their milk. This union is the one India knows as Amul.",
+      "box": "",
+      "sources": [
+        37,
+        39,
+        41
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "31 October 1955",
+      "era": "white",
+      "art": "compressor",
+      "key": true,
+      "title": "Buffalo milk powder, and a name: Amul",
+      "who": "Verghese Kurien, H. M. Dalaya and Tribhuvandas Patel",
+      "where": "Anand, Gujarat",
+      "country": "India",
+      "text": "Verghese Kurien, a young engineer, came to Anand in 1949 and stayed to run the union's dairy. Experts abroad said milk powder could not be made from buffalo milk. H. M. Dalaya found a way, and the new plant was opened by Prime Minister Jawaharlal Nehru on 31 October 1955. The brand name Amul, from the Sanskrit amulya, 'priceless', dates from these years: sources give 1955 for its adoption and 1957 for its registration.",
+      "why": "Winter's extra milk could now be stored as powder and butter, so the union never had to turn a farmer's milk away.",
+      "box": "",
+      "sources": [
+        38,
+        42,
+        37,
+        39
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "16 July 1965",
+      "era": "white",
+      "art": "share",
+      "key": false,
+      "title": "The Anand pattern goes national",
+      "who": "Lal Bahadur Shastri and Verghese Kurien",
+      "where": "Anand, Gujarat",
+      "country": "India",
+      "text": "Prime Minister Lal Bahadur Shastri visited Anand in October 1964 to open Amul's cattle feed factory, and asked Kurien to repeat the Kaira model across the country. The National Dairy Development Board was founded in 1965, with its headquarters at Anand and not in Delhi.",
+      "why": "A village co-operative became the plan for a whole country's milk.",
+      "box": "",
+      "sources": [
+        43,
+        44,
+        42
+      ]
+    },
+    {
+      "year": 1966,
+      "date": "1966 (some accounts say 1967)",
+      "era": "white",
+      "art": "palette",
+      "key": true,
+      "title": "Utterly butterly: the Amul girl",
+      "who": "Sylvester daCunha, Eustace Fernandes and Nisha daCunha",
+      "where": "Bombay (Mumbai)",
+      "country": "India",
+      "text": "Sylvester daCunha, then head of the agency ASP, and the art director Eustace Fernandes drew a little girl in a polka-dotted frock for Amul butter. She had to be easy to paint by hand on hoardings. The line 'utterly butterly' is credited to Sylvester's wife, Nisha daCunha, a teacher of English. The girl has joked about the news ever since.",
+      "why": "It is one of the longest-running advertising campaigns in the world, and it made a farmers' butter the best-loved brand in India.",
+      "box": "",
+      "sources": [
+        45,
+        46,
+        37
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "13 January 1970",
+      "era": "white",
+      "art": "waterdrop",
+      "key": true,
+      "title": "Operation Flood",
+      "who": "National Dairy Development Board, led by Verghese Kurien",
+      "where": "India",
+      "country": "India",
+      "text": "The NDDB launched the largest dairy development programme in the world. It ran in three phases until 1996, linking village co-operatives to city markets through a national milk grid. By the end of the second phase, in 1985, it reached about 43,000 village co-operatives and 4.25 million milk producers. In 1973 Gujarat's unions also formed one marketing federation, the GCMMF, to sell under the Amul name.",
+      "why": "Known as the White Revolution, it turned a country short of milk into one with milk to spare.",
+      "box": "",
+      "sources": [
+        47,
+        43,
+        37
+      ]
+    },
+    {
+      "year": 1991,
+      "date": "1991",
+      "era": "white",
+      "art": "snowflake",
+      "key": false,
+      "title": "Butter that spreads straight from the fridge",
+      "who": "Robert Norris and David Illingworth",
+      "where": "New Zealand Dairy Research Institute, Palmerston North",
+      "country": "New Zealand",
+      "text": "Butter is hard when cold because some of its fats stay solid at fridge temperature. Norris, who began the work in the mid 1970s, and Illingworth cooled melted milk fat slowly so that these high-melting fats formed crystals, then took them out. Production began at Te Puke by July 1991.",
+      "why": "It showed that how hard butter is depends on which fat crystals are in it, with nothing added but milk fat.",
+      "box": "spread",
+      "sources": [
+        50
+      ]
+    },
+    {
+      "year": 1998,
+      "date": "1998",
+      "era": "white",
+      "art": "earth",
+      "key": false,
+      "title": "The world's largest milk producer",
+      "who": "India's dairy farmers",
+      "where": "India",
+      "country": "India",
+      "text": "In 1998 India's milk output passed that of the United States, making it the largest milk producer in the world. Production had grown from 17 million tonnes in 1950-51 to about 75 million tonnes in 1998-99, most of it from farmers with only a few animals.",
+      "why": "Half a century after the Kaira strike, the co-operative idea had changed what a whole country eats.",
+      "box": "",
+      "sources": [
+        47,
+        49,
+        48
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "2011",
+      "era": "white",
+      "art": "scales",
+      "key": false,
+      "title": "What may be called butter",
+      "who": "Food Safety and Standards Authority of India",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "India's food standards regulations of 2011 say that table butter must have at least 80 per cent milk fat, no more than 16 per cent moisture, 1.5 per cent other milk solids and 3 per cent salt. Desi or cooking butter needs at least 76 per cent milk fat. The world Codex standard for butter, first set in 1971, also asks for at least 80 per cent fat and at most 16 per cent water.",
+      "why": "The numbers explain the last step of butter-making: working the butter is how the extra water is squeezed out.",
+      "box": "finish",
+      "sources": [
+        51,
+        52,
+        33
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Earliest direct evidence of milk being processed",
+      "value": "7th millennium BCE",
+      "who": "Pottery from the Near East and Anatolia"
+    },
+    {
+      "label": "Earliest direct evidence of dairy processing in South Asia",
+      "value": "c. 2500 BCE",
+      "who": "Kotada Bhadli, Gujarat, India"
+    },
+    {
+      "label": "First report of globules in milk",
+      "value": "1674",
+      "who": "Antonie van Leeuwenhoek, Netherlands"
+    },
+    {
+      "label": "First continuous centrifugal cream separator",
+      "value": "1878",
+      "who": "Gustaf de Laval, Sweden"
+    },
+    {
+      "label": "First co-operative dairy in Denmark",
+      "value": "1882",
+      "who": "Farmers of Hjedding, Jutland"
+    },
+    {
+      "label": "First milk powder made from buffalo milk",
+      "value": "1955",
+      "who": "H. M. Dalaya and the Kaira Union, Anand, India"
+    },
+    {
+      "label": "First Amul girl advertisement",
+      "value": "1966",
+      "who": "Sylvester daCunha and Eustace Fernandes, Bombay"
+    }
+  ],
+  "people": [
+    {
+      "name": "Antonie van Leeuwenhoek",
+      "life": "1632 – 1723",
+      "role": "Cloth merchant and microscopist",
+      "from": "Delft, Netherlands",
+      "note": "With lenses he ground himself, he reported globules in milk in 1674 and went on to describe a hidden world of tiny living things."
+    },
+    {
+      "name": "Hippolyte Mège-Mouriès",
+      "life": "1817 – 1880",
+      "role": "Chemist",
+      "from": "France",
+      "note": "He invented margarine in 1869 in answer to Napoleon III's call for a cheaper substitute for butter."
+    },
+    {
+      "name": "Gustaf de Laval",
+      "life": "1845 – 1913",
+      "role": "Engineer and inventor",
+      "from": "Sweden",
+      "note": "He built the continuous cream separator and an early steam turbine, and co-founded the company now called Alfa Laval."
+    },
+    {
+      "name": "Stephen Moulton Babcock",
+      "life": "1843 – 1931",
+      "role": "Agricultural chemist",
+      "from": "United States",
+      "note": "His 1890 butterfat test let any creamery measure the fat in milk, and he gave it away without a patent."
+    },
+    {
+      "name": "Tribhuvandas Patel",
+      "life": "1903 – 1994",
+      "role": "Farmers' leader and co-operator",
+      "from": "Anand, Gujarat, India",
+      "note": "He founded the Kaira milk union in 1946, hired Verghese Kurien, and won the Ramon Magsaysay Award for Community Leadership in 1963."
+    },
+    {
+      "name": "Verghese Kurien",
+      "life": "1921 – 2012",
+      "role": "Dairy engineer",
+      "from": "Born in Calicut (Kozhikode), Kerala; worked in Anand, Gujarat",
+      "note": "He built Amul, led the National Dairy Development Board and Operation Flood, and received the World Food Prize in 1989."
+    },
+    {
+      "name": "H. M. Dalaya",
+      "life": "20th century",
+      "role": "Dairy technologist",
+      "from": "India",
+      "note": "He worked out how to make skim milk powder and condensed milk from buffalo milk at Anand in the 1950s."
+    },
+    {
+      "name": "Sylvester daCunha",
+      "life": "1930 – 2023",
+      "role": "Advertising writer",
+      "from": "Bombay (Mumbai), India",
+      "note": "He created the Amul girl campaign in 1966 with the artist Eustace Fernandes and handed it on to his son Rahul in 1993."
+    },
+    {
+      "name": "Nisha daCunha",
+      "life": "20th and 21st centuries",
+      "role": "Author and teacher of English",
+      "from": "Bombay (Mumbai), India",
+      "note": "A former professor at St. Xavier's College, she is credited with the phrase 'utterly butterly' that made Amul butter famous."
+    }
+  ],
+  "series": [
+    {
+      "id": "milk",
+      "title": "How much milk India produces in a year",
+      "unit": "million tonnes",
+      "log": false,
+      "after": "white",
+      "caption": "Official figures from the Department of Animal Husbandry and Dairying, as published by the NDDB. Output hardly moved for twenty years, then climbed steeply once Operation Flood linked villages to city markets.",
+      "points": [
+        {
+          "year": 1951,
+          "value": 17,
+          "label": "1950-51: 17.0 million tonnes"
+        },
+        {
+          "year": 1961,
+          "value": 20,
+          "label": "1960-61: 20.0 million tonnes"
+        },
+        {
+          "year": 1969,
+          "value": 21.2,
+          "label": "1968-69: 21.2 million tonnes, just before Operation Flood"
+        },
+        {
+          "year": 1981,
+          "value": 31.6,
+          "label": "1980-81: 31.6 million tonnes"
+        },
+        {
+          "year": 1991,
+          "value": 53.9,
+          "label": "1990-91: 53.9 million tonnes"
+        },
+        {
+          "year": 2001,
+          "value": 80.6,
+          "label": "2000-01: 80.6 million tonnes"
+        },
+        {
+          "year": 2011,
+          "value": 121.8,
+          "label": "2010-11: 121.8 million tonnes"
+        },
+        {
+          "year": 2021,
+          "value": 210,
+          "label": "2020-21: 210.0 million tonnes"
+        },
+        {
+          "year": 2024,
+          "value": 239.3,
+          "label": "2023-24: 239.3 million tonnes"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "One millilitre of milk holds about ten billion fat globules. Most are 3 to 4 thousandths of a millimetre across, each wrapped in a membrane only 10 to 20 millionths of a millimetre thick.",
+    "Left alone, a typical fat globule rises only about a millimetre in an hour. In a cream separator it moves thousands of times faster.",
+    "People in Ireland buried butter in peat bogs for at least 3,500 years. The oldest lump dated so far is from about 1700 BCE.",
+    "Indian food rules set a lower fat minimum for desi butter than for table butter: 76 per cent against 80 per cent.",
+    "Stephen Babcock never patented his butterfat test, so creameries everywhere were free to use it."
+  ],
+  "sources": [
+    {
+      "title": "Earliest date for milk use in the Near East and southeastern Europe linked to cattle herding (Evershed et al., Nature, 2008)",
+      "publisher": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18690215/"
+    },
+    {
+      "title": "A potted history of milk",
+      "publisher": "University of Bristol",
+      "url": "https://www.bristol.ac.uk/news/2008/5845.html"
+    },
+    {
+      "title": "Bir Abu Matar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bir_Abu_Matar"
+    },
+    {
+      "title": "Churning to make butter (with the Israel Museum's label for a Chalcolithic churn)",
+      "publisher": "Ferrell's Travel Blog",
+      "url": "https://ferrelljenkins.blog/2013/05/23/churning-to-make-butter/"
+    },
+    {
+      "title": "Tell al-'Ubaid",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tell_al-%27Ubaid"
+    },
+    {
+      "title": "Sumerians Milking Scene from Tell al-'Ubaid",
+      "publisher": "World History Encyclopedia",
+      "url": "https://www.worldhistory.org/image/10768"
+    },
+    {
+      "title": "U of T Mississauga researcher uncovers evidence of earliest known dairy production in India",
+      "publisher": "University of Toronto",
+      "url": "https://www.utoronto.ca/news/u-t-mississauga-researcher-uncovers-evidence-earliest-known-dairy-production-india"
+    },
+    {
+      "title": "Compound specific isotope analysis of lipid residues provides the earliest direct evidence of dairy product processing in South Asia (Chakraborty et al., 2020)",
+      "publisher": "Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-020-72963-y"
+    },
+    {
+      "title": "Four millennia of dairy surplus and deposition revealed through compound-specific stable isotope analysis and radiocarbon dating of Irish bog butters (Smyth et al., Scientific Reports, 2019)",
+      "publisher": "University College Cork (CORA)",
+      "url": "https://cora.ucc.ie/items/01934ffd-0992-46bf-a291-5b77a159fc23"
+    },
+    {
+      "title": "Bog butter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bog_butter"
+    },
+    {
+      "title": "Ghee",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ghee"
+    },
+    {
+      "title": "Rig Veda, Mandala 4, Sukta 58 (to Ghrita)",
+      "publisher": "VedaPath",
+      "url": "https://vedapath.app/en/rig-veda/mandala-4/58"
+    },
+    {
+      "title": "Samudra Manthana",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samudra_Manthana"
+    },
+    {
+      "title": "Bhagavata Purana",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bhagavata_Purana"
+    },
+    {
+      "title": "Dahi Handi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dahi_Handi"
+    },
+    {
+      "title": "Krishna Janmashtami",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Krishna_Janmashtami"
+    },
+    {
+      "title": "Butter: history",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Butter"
+    },
+    {
+      "title": "Leeuwenhoek's letter of 7 April 1674 to Henry Oldenburg",
+      "publisher": "Lens on Leeuwenhoek",
+      "url": "https://www.lensonleeuwenhoek.net/content/wrote-letter-6-1674-04-07-henry-oldenburg"
+    },
+    {
+      "title": "Dairy Processing Handbook: The chemistry of milk",
+      "publisher": "Tetra Pak",
+      "url": "https://dairyprocessinghandbook.tetrapak.com/chapter/chemistry-milk"
+    },
+    {
+      "title": "Celebrating Cork's butter heritage",
+      "publisher": "Irish Farmers Journal",
+      "url": "https://www.farmersjournal.ie/news/news/celebrating-corks-butter-heritage-735477"
+    },
+    {
+      "title": "Cork Butter Museum",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cork_Butter_Museum"
+    },
+    {
+      "title": "Stokes' law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stokes%27_law"
+    },
+    {
+      "title": "Dairy Processing Handbook: Centrifugal separators and milk standardization",
+      "publisher": "Tetra Pak",
+      "url": "https://dairyprocessinghandbook.tetrapak.com/chapter/centrifugal-separators-and-milk-standardization"
+    },
+    {
+      "title": "Margarine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Margarine"
+    },
+    {
+      "title": "Hippolyte Mège-Mouriès",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hippolyte_M%C3%A8ge-Mouri%C3%A8s"
+    },
+    {
+      "title": "Where we come from",
+      "publisher": "Alfa Laval",
+      "url": "https://www.alfalaval.com/about-us/where-we-come-from/"
+    },
+    {
+      "title": "Alfa Laval",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alfa_Laval"
+    },
+    {
+      "title": "Carl Gustaf Patrick de Laval (1845 to 1913)",
+      "publisher": "European Route of Industrial Heritage",
+      "url": "https://www.erih.net/how-it-started/stories-about-people-biographies/biography/laval"
+    },
+    {
+      "title": "Hjedding Dairy Museum",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hjedding_Dairy_Museum"
+    },
+    {
+      "title": "Danish cooperative movement",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Danish_cooperative_movement"
+    },
+    {
+      "title": "Lurpak",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lurpak"
+    },
+    {
+      "title": "Babcock test",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Babcock_test"
+    },
+    {
+      "title": "Gerber method",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gerber_method"
+    },
+    {
+      "title": "Dairy Processing Handbook: Butter and dairy spreads",
+      "publisher": "Tetra Pak",
+      "url": "https://dairyprocessinghandbook.tetrapak.com/chapter/butter"
+    },
+    {
+      "title": "Early dairy science text on Storch's pure cultures for ripening cream",
+      "publisher": "University of Wisconsin Digital Collections",
+      "url": "https://search.library.wisc.edu/digital/AJOGA2P5XVV4AP8K/text/ALICMLDEZ6HZFD8X"
+    },
+    {
+      "title": "Patent FR880497A: Method and apparatus for churning (Willi Fritz, filed 6 February 1941)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/FR880497A/en"
+    },
+    {
+      "title": "Buttermaking machines",
+      "publisher": "GEA",
+      "url": "https://www.gea.com/en/products/centrifuges-separation/buttermaking"
+    },
+    {
+      "title": "Amul",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amul"
+    },
+    {
+      "title": "Milk, the inspiration behind a revolution: history",
+      "publisher": "Amul Dairy (Kaira District Co-operative Milk Producers' Union)",
+      "url": "https://amuldairy.com/history.php"
+    },
+    {
+      "title": "Polson to Amul: Gujarat farmers helmed the White Revolution",
+      "publisher": "ThePrint",
+      "url": "https://theprint.in/opinion/polson-to-amul-gujarat-farmers-helmed-white-revolution-first-they-took-on-a-parsi-dairy/1580846/"
+    },
+    {
+      "title": "Polson (brand)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Polson_(brand)"
+    },
+    {
+      "title": "Tribhuvandas Kishibhai Patel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tribhuvandas_Kishibhai_Patel"
+    },
+    {
+      "title": "Verghese Kurien",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Verghese_Kurien"
+    },
+    {
+      "title": "Genesis",
+      "publisher": "National Dairy Development Board",
+      "url": "https://www.nddb.coop/about/genesis"
+    },
+    {
+      "title": "National Dairy Development Board",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Dairy_Development_Board"
+    },
+    {
+      "title": "Sylvester da Cunha",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sylvester_da_Cunha"
+    },
+    {
+      "title": "Amul girl",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amul_girl"
+    },
+    {
+      "title": "White Revolution (India): Operation Flood",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Flood"
+    },
+    {
+      "title": "Milk Production in India",
+      "publisher": "National Dairy Development Board",
+      "url": "https://www.nddb.coop/information/stats/milkprodindia"
+    },
+    {
+      "title": "Milk production and per capita availability of milk in India, 1950-51 to 2015-16",
+      "publisher": "National Dairy Development Board",
+      "url": "https://www.nddb.coop/sites/default/files/Milk-prod_PCA.pdf"
+    },
+    {
+      "title": "Robert Norris and David Illingworth: spreadable butter",
+      "publisher": "Science Roadshow, New Zealand",
+      "url": "https://roadshow.org/content/resources/NZscientists/illingworthNorris.php"
+    },
+    {
+      "title": "Butter, ghee and milk fats: standards under the Food Safety and Standards Regulations, 2011",
+      "publisher": "Food Safety Helpline",
+      "url": "https://foodsafetyhelpline.com/butter-ghee-milk-fats/"
+    },
+    {
+      "title": "Codex Alimentarius: list of standards (Standard for Butter, CXS 279-1971)",
+      "publisher": "FAO and WHO",
+      "url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/"
+    },
+    {
+      "title": "Butter churn",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Butter_churn"
+    },
+    {
+      "title": "Stephen Moulton Babcock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stephen_Moulton_Babcock"
+    }
+  ]
+}
